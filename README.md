@@ -4,4 +4,4 @@
 
 <h3>Desenvolvido em HTML e CSS</h3>
 
-Cópia do site da iPhone, com objetivo em estudo de linguagens como HTML, CSS e JavaScript, além de estudar design reponsivo. 
+Cópia do site da iPhone, com objetivo em estudo de linguagens HTML, CSS e JavaScript, além de estudar design reponsivo. 
