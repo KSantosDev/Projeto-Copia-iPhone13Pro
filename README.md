@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>Copia do Site - iPhone 13 Pro</h1>
+  <h1>Cópia do Site - iPhone 13 Pro</h1>
 </div> 
 
 <h3>Desenvolvido em HTML e CSS</h3>
